@@ -1,0 +1,19 @@
+.login-box {
+    width: 30vw;
+    margin: 0px auto;
+    margin-top: 21vh;
+    background-color: white;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    padding: 35px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.login-box input {
+    width: 100% !important;
+}
+
+.register-button-container {
+    height: 50px;
+    padding-top: 20px;
+}
